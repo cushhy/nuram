@@ -2882,14 +2882,14 @@ a {
 
 }
 
-@media screen and (max-width: 326px) { 
+@media screen and (max-width: 376px) { 
 
   .form {
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
     padding-left: 10px;
-    width: 300px;
+    width: 340px;
     height: auto;
   }
 
